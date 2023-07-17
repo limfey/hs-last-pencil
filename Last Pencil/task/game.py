@@ -22,3 +22,4 @@ while count > 0:
         print(count * "|")
         d = int(input(f'{players[1]}s turn:\n'))
         count -= d
+#teat
